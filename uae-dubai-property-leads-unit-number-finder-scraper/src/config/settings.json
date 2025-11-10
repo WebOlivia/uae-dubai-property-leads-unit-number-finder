@@ -1,0 +1,10 @@
+{
+  "scraper": {
+    "user_agent": "Mozilla/5.0 (compatible; UAEPropertyScraper/1.0; +https://bitbash.dev)",
+    "timeout": 15,
+    "retrieve_contact_details": false
+  },
+  "output": {
+    "default_format": "json"
+  }
+}
